@@ -1,2 +1,2 @@
 # todo-app
-Created with CodeSandbox
+A todo-app made by using React using useState & useRef hooks.
