@@ -1,2 +1,2 @@
 # todo-app
-A todo-app made by using React using useState & useRef hooks.
+A todo-app made by using React including useState & useRef hooks.
